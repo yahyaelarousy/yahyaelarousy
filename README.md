@@ -2,20 +2,20 @@
 <p align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px"></p>
 <h1 align="center"><b>Yahya El Arousy</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=you+O++welcome..&hearts;++;I'm+A+Computer+Science+Student,;Student+at+1337+Coding+School,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+profile!;I+am+a+tech+enthusiast+with+an+interest+in+innovation.;Currently+learning+new+skills+in+software+development..<3"></a>
 </p>
-<h3 align="center">I am a passionate tech enthusiast</h3>
+<h3 align="center">Driven by curiosity and passion for technology</h3>
 
-🌱 I’m currently learning **C**
+🌱 Exploring the world of **C Programming**
 
-💬 Ask me about **C**
+💬 Feel free to ask me about **C** or any other technology
 
-📫 How to reach me **adilhabibi728@gmail.com**
+📫 You can reach me at **adilhabibi728@gmail.com**
 
 <h3>Languages and Tools:</h3>
 
-👨‍💻 Fasciné Par l'informatique, j'ai une solide expérience dans le développement de solutions logicielles innovantes. Mon expertise couvre une variété de technologies, notamment JavaScript, Python, Java et C.
+👨‍💻 Passionate about coding, I have experience in creating innovative software solutions. My expertise spans across various technologies including JavaScript, Python, Java, and C.
 
-💡 Passionné par l'apprentissage continu, je suis toujours à la recherche de nouvelles technologies et de tendances émergentes dans le domaine de l'informatique. Je crois fermement que l'innovation est la clé pour résoudre les défis complexes d'aujourd'hui.
+💡 Always eager to learn, I stay up to date with emerging technologies and trends in the tech world. I believe that innovation is the key to solving today’s complex challenges.
 
-🤝 Je suis ouvert aux opportunités de collaboration et aux projets intéressants. N'hésitez pas à me contacter pour discuter de la manière dont nous pourrions travailler ensemble !
+🤝 I’m open to collaborations and exciting projects. Let’s connect and explore how we can create something amazing together!
