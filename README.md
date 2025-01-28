@@ -23,5 +23,5 @@ Je suis ouvert aux opportunités de collaboration et aux projets intéressants. 
 
 ## 🎬 Quelques GIFs
 
-![Hacker GIF](https://media.giphy.com/media/3ohhwpDh5tZ5ToFV7K/giphy.gif)
+!https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=6c09b952ciso3xt0msgj9jyfm1s1ann1tjwoyq0l650bb30b&ep=v1_gifs_search&rid=giphy.gif&ct=g
 ![Hack GIF](https://media.giphy.com/media/3o7aD0Db7fIZB1tZXq/giphy.gif)
