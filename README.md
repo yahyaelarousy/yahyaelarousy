@@ -23,6 +23,5 @@ Je suis ouvert aux opportunités de collaboration et aux projets intéressants. 
 
 ## 🎬 Quelques GIFs
 
-![Technology GIF](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
-![Learning GIF](https://media.giphy.com/media/d3MLnG9C1Kp8T2l6/giphy.gif)
-
+![Coder GIF](https://media.giphy.com/media/1dHnMi1IbTbzNsk48e/giphy.gif)
+![Learning GIF](https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif)
