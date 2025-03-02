@@ -16,7 +16,7 @@
 
 <h3>Languages and Tools:</h3>
 
-👨‍💻 Passionate about coding, I have experience in creating innovative software solutions. My expertise spans across various technologies including JavaScript, Python, Java, and C.
+👨‍💻 Passionate about coding, I have experience in creating innovative software solutions. My expertise spans across various technologies including, Java, and C.
 
 💡 Always eager to learn, I stay up to date with emerging technologies and trends in the tech world. I believe that innovation is the key to solving today’s complex challenges.
 
